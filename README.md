@@ -1,5 +1,5 @@
 # LeetCode
-This repo contains all my submissions for LeetCode problems.
+This repo contains my solutions for LeetCode problems.
 https://leetcode.com/nickfrench/
 
 # Resources
